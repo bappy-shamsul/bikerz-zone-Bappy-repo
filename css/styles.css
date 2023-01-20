@@ -1,0 +1,11 @@
+.jony-carousel-control-icon{
+    background-color: red;
+    opacity: .15;
+}
+.jony-carousel-control-icon:hover{
+    background-color: blue;
+    opacity: .70;
+}
+.jony-icon-star{
+    width: 20px;
+}
